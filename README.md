@@ -1,12 +1,5 @@
-- 👋 Hi, I’m Shahram Moradpour
-I'm self motivated and have a lot of enthusiasm for learning. I know enough about teamwork skills specially Scrum and Agile methods .
-My goal is to improve my skills in use of Machine Learning and High performance Computing domain and I am actively seeking opportunities.
 
--
-- 📫 How to reach me : Email: shmoradpour69@gmail.com feell free to be in touch
+👋 Hi, I’m Shahram Moradpour
+I'm self-motivated and enthusiastic about learning. I have strong teamwork skills, particularly in Scrum and Agile methodologies. My goal is to enhance my expertise in Machine Learning and High-Performance Computing, and I am actively seeking opportunities in these areas.
 
-<!---
-strumer69/strumer69 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-
+📫 How to reach me: Email: shmoradpour69@gmail.com. Feel free to get in touch!
